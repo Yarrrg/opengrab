@@ -1,0 +1,1 @@
+<span><a href='https://payment.mtgox.com/1e529c8e-55ed-471c-bb20-e9c71202c54a'><img src='https://payment.mtgox.com/img/mtgox-checkout.png' border='0' /></a></span>
